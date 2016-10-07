@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="focPointPic">
+	<focPic>
+		<imgSrc>img/eg/F1.jpg</imgSrc>
+		<imgTitle>F1</imgTitle>
+		<imgAlt>第一幅图</imgAlt>
+	</focPic>
+	<focPic>
+		<imgSrc>img/eg/F2.jpg</imgSrc>
+		<imgTitle>F2</imgTitle>
+		<imgAlt>第二幅图</imgAlt>
+	</focPic>
+	<focPic>
+		<imgSrc>img/eg/F3.jpg</imgSrc>
+		<imgTitle>F3</imgTitle>
+		<imgAlt>第三幅图</imgAlt>
+	</focPic>
+	<focPic>
+		<imgSrc>img/eg/F4.jpg</imgSrc>
+		<imgTitle>F4</imgTitle>
+		<imgAlt>第四幅图</imgAlt>
+	</focPic>
+	<focPic>
+		<imgSrc>img/eg/F5.jpg</imgSrc>
+		<imgTitle>F5</imgTitle>
+		<imgAlt>第五幅图</imgAlt>
+	</focPic>
+	<focPic>
+		<imgSrc>img/eg/F6.jpg</imgSrc>
+		<imgTitle>F6</imgTitle>
+		<imgAlt>第六幅图</imgAlt>
+	</focPic>
+</root>

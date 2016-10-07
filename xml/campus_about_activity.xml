@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns="campus_news">
+	<news category="news1">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F2.jpg</img_src>
+		<img_alt>the news1</img_alt>
+		<news_span>MyCampus-test:first</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news2">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F4.jpg</img_src>
+		<img_alt>the news2</img_alt>
+		<news_span>second</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news3">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F5.jpg</img_src>
+		<img_alt>the news3</img_alt>
+		<news_span>third</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news4">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F6.jpg</img_src>
+		<img_alt>the news4</img_alt>
+		<news_span>fourth</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news1">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F2.jpg</img_src>
+		<img_alt>the news5</img_alt>
+		<news_span>5</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news2">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F4.jpg</img_src>
+		<img_alt>the news6</img_alt>
+		<news_span>6</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news3">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F5.jpg</img_src>
+		<img_alt>the news7</img_alt>
+		<news_span>7</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news4">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F6.jpg</img_src>
+		<img_alt>the news8</img_alt>
+		<news_span>8</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news1">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F2.jpg</img_src>
+		<img_alt>the news9</img_alt>
+		<news_span>9</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news2">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F4.jpg</img_src>
+		<img_alt>the news10</img_alt>
+		<news_span>10</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news3">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F5.jpg</img_src>
+		<img_alt>the news11</img_alt>
+		<news_span>11</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+	<news category="news4">
+		<news_a>#</news_a>
+		<img_src>../img/Campus/F6.jpg</img_src>
+		<img_alt>the news12</img_alt>
+		<news_span>12</news_span>
+		<news_time>2016/08/08</news_time>
+	</news>
+</root>
